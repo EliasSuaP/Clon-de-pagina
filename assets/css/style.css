@@ -1,0 +1,57 @@
+
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #ffffff;
+}
+.unstyle{
+    all: unset;
+}
+.verticalMenu{
+    background: white;
+    box-shadow: 0 0 5px grey;
+    height: 100%;
+    max-width: 80%;
+    width: 400px;
+    z-index: 45;
+}
+.menuVerticalCont{
+    margin-top: 40%;
+}
+.navbar-toggler{
+    border-radius: 2px;
+    color: #fff;
+    background-color: #5f9bce;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    white-space: nowrap;
+}
+.fatface {
+    font-family: 'Abril Fatface';
+}
+.font-color {
+    color: #5f9bce
+}
+.subtitle{
+    text-decoration: overline;
+}
+.container{
+    margin-top: 20px;
+}
+
+.container h1{
+    font-size: 56px;
+    font-weight: 700;
+}
+.cont-contacto{
+    margin-top: 20px;
+}
+.ancho{
+    width: 25%;
+}
+footer {
+    font-size: 9pt;
+}
+
