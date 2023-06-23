@@ -1,5 +1,5 @@
 # Clon-de-pagina
-Clon de una página sencilla con solo con html y boostrap 5
+Clon de una página sencilla solo con html y boostrap 5
 
 Esto es un clon de la página https://tostaduria-nogales.negocio.site/
 
